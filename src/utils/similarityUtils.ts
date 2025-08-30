@@ -53,7 +53,7 @@ export const initializeModel = async (): Promise<void> => {
 
           for (const config of modelConfigs) {
             try {
-              console.log(`Trying model: ${config.model} with device: ${(config.options as any).device || 'CPU'}`);
+              console.log(`Trying model: ${config.model} with device: ${config.options?.device || "CPU"}`);
               
               // Use the correct pipeline type for image feature extraction
               featureExtractor = await pipeline(
