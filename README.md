@@ -7,6 +7,9 @@ An AI-powered web application that finds visually similar products using advance
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/uxwolf/Visual-Product-Matcher)
 [![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-black?logo=vercel)](https://visual-product-matcher-26vi.vercel.app/)
 
+- **GitHub Repository**: [Visual-Product-Matcher](https://github.com/uxwolf/Visual-Product-Matcher)  
+- **Live Demo**: [Deployed Project on Vercel](https://visual-product-matcher-26vi.vercel.app/)
+
 
 ## Features
 
