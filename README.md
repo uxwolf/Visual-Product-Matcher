@@ -2,6 +2,12 @@
 
 An AI-powered web application that finds visually similar products using advanced computer vision technology. Upload any product image and discover matching items with intelligent similarity analysis.
 
+## Project Links
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/uxwolf/Visual-Product-Matcher)
+[![Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-black?logo=vercel)](https://visual-product-matcher-26vi.vercel.app/)
+
+
 ## Features
 
 - **AI-Powered Visual Search**: Uses CLIP model for intelligent image similarity matching
